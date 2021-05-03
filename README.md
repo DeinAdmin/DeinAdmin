@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeinAdmin!
+- 👋 Hi, I’m @deinadmin!
 - 👀 I’m interested in web & mobile development, server related stuff and iOS tweaking 
 - 🌱 I’m currently learning Swift and Obj-c
 - 💞️ I’m looking to collaborate on some websites
